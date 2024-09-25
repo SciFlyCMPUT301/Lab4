@@ -1,2 +1,8 @@
-package com.example.sciflycmput301;public class Shape {
+package com.example.sciflycmput301;
+
+public abstract class Shape {
+    int x;
+    int y;
+
+
 }
